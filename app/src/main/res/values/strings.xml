@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Catering App</string>
+    <string name="registerBtn">register</string>
+    <string name="loginBtn">Login</string>
+    <string name="role">Role</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="time">Time:</string>
+    <string name="occasion">Occasion:</string>
+    <string name="partySize">Party Size:</string>
+    <string name="mealType">Meal Type:</string>
+    <string name="drinkType">Drink Type:</string>
+    <string name="formality">Formality:</string>
+    <string name="venue">Venue:</string>
+    <string name="request_event">Request Event</string>
+    <string name="student_faculty">Student/Faculty</string>
+    <string name="student_faculty_home">Student/Faculty Home</string>
+    <string name="request_events">Request Events</string>
+    <string name="view_reserved_events">View Reserved Events</string>
+    <string name="staff_home">Staff Home</string>
+    <string name="time2">Time</string>
+    <string name="logout">Logout</string>
+    <string name="Cancel">Cancel</string>
+    <string name="reject_event">REJECT</string>
+    <string name="confirm_event">CONFIRM</string>
+</resources>

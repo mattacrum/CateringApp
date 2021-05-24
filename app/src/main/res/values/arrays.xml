@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formality">
+        <item>Formal</item>
+        <item>Informal</item>
+    </string-array>
+    <string-array name="mealType">
+        <item>Chinese</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Greek</item>
+        <item>Japanese</item>
+        <item>French</item>
+        <item>American</item>
+        <item>Indian</item>
+        <item>Pizza</item>
+    </string-array>
+    <string-array name="drinkType">
+        <item>Alcoholic</item>
+        <item>Non-alcoholic</item>
+    </string-array>
+    <string-array name="venue">
+        <item>Arlington</item>
+        <item>Liberty</item>
+        <item>Shard</item>
+        <item>Maverick</item>
+        <item>KC</item>
+    </string-array>
+    <string-array name="users_array">
+        <item>UTA user</item>
+        <item>Caterer</item>
+        <item>Staff</item>
+    </string-array>
+    <string-array name="partySize">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-40</item>
+        <item>41-70</item>
+        <item>71-100</item>
+    </string-array>
+</resources>

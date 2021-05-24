@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20sp"
+    tools:context="com.example.cse3310.cateringapp.StudentFacultyHomeActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60sp"
+        android:layout_marginBottom="60sp"
+        android:text="@string/student_faculty_home"
+        android:layout_gravity="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/request_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/request_event"
+         />
+
+    <Button
+        android:id="@+id/view_reserved_events"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Reserved Events"
+         />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="@string/logout"
+        tools:ignore="MissingConstraints" />
+
+</LinearLayout>
+
